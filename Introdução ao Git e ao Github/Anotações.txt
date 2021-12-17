@@ -1,0 +1,15 @@
+Anotações sobre o curso
+
+Abrir pasta
+
+git clone + copiar link do git
+
+cd nome da pasta
+
+git status
+
+git add . para adicionar novas pastas ao projeto
+
+git commit -m para inserir comentarios
+
+git push origin main para passar da maquina para o git hub 
